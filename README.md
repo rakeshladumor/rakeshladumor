@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Rakesh Ladumor
 
-<!--
-**rakeshladumor/rakeshladumor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Frontend Developer
 
-Here are some ideas to get you started:
+I am a passionate Frontend Developer from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git
+- GitHub
+
+## 🎯 Current Goal
+
+Build modern, responsive and user-friendly websites.
+
+## 📫 Connect with Me
+
+Coming Soon...
